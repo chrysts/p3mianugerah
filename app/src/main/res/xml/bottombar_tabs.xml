@@ -1,0 +1,17 @@
+<tabs>
+    <tab
+        id="@+id/tab_general"
+        icon="@drawable/ic_big_clock_filled"
+        barColorWhenSelected="#0FAFFF"
+
+   />
+    <tab
+        id="@+id/tab_logos"
+        icon="@drawable/ic_big_file"
+        barColorWhenSelected="#E5774E" />
+    <tab
+        id="@+id/tab_about"
+        icon="@drawable/ic_big_about"
+        barColorWhenSelected="#FDED4E" />
+
+</tabs>

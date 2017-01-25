@@ -1,0 +1,50 @@
+[
+    {
+        "outputFile": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 43,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\exploded-aar\\com.github.barteksc\\pdfium-android\\1.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 344,
+                    "endColumn": 43,
+                    "endOffset": 383
+                },
+                "from": {
+                    "file": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\exploded-aar\\com.github.barteksc\\pdfium-android\\1.4.0\\res\\values\\values.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            }
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_top.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_bottom.xml",
+        "source": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_bottom.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_right.xml",
+        "source": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_right.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_left.xml",
+        "source": "D:\\android\\Android\\sourcecode\\Pemuda\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_left.xml"
+    },
+    {
+        "merged": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable\\default_scroll_handle_top.xml",
+        "source": "D:\\android\\Android\\sourcecode\\AndroidPdfViewer-master\\android-pdf-viewer\\build\\intermediates\\bundles\\debug\\res\\drawable\\default_scroll_handle_top.xml"
+    }
+]
