@@ -48,6 +48,7 @@ import java.util.HashMap;
 import java.util.List;
 
 import com.android.volley.toolbox.JsonObjectRequest;
+import com.onesignal.OneSignal;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnTabSelectListener;
 
@@ -77,6 +78,7 @@ public class MainActivity extends FragmentActivity implements
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+        OneSignal.startInit(this).init();
         setContentView(R.layout.activity_main);
 
         createBarActions();

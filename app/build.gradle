@@ -3,15 +3,18 @@ apply plugin: 'com.android.application'
 apply plugin: 'com.jfrog.bintray'
 
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.2"
+    compileSdkVersion 24
+    buildToolsVersion "24.0.2"
 
     defaultConfig {
         applicationId "anugerah.gmi.com.pemuda"
         minSdkVersion 16
-        targetSdkVersion 23
+        targetSdkVersion 24
         versionCode 1
         versionName "1.0"
+        manifestPlaceholders = [onesignal_app_id: "5f39b218-0a5d-40b4-a705-c944447ac126",
+                                // Project number pulled from dashboard, local value is ignored.
+                                onesignal_google_project_number: "REMOTE"]
     }
     buildTypes {
         release {
@@ -32,13 +35,23 @@ dependencies {
     compile 'com.github.ksoichiro:android-observablescrollview:1.5.0'
     compile 'com.nineoldandroids:library:2.4.0'
     compile 'com.melnykov:floatingactionbutton:1.0.7'
-    compile 'com.roughike:bottom-bar:2.+'
+    compile 'com.roughike:bottom-bar:2.1.1'
     compile 'com.squareup.picasso:picasso:2.5.2'
     compile 'com.coolerfall:android-http-download-manager:1.6.1'
     compile 'com.squareup.okhttp3:okhttp:3.4.2'
     compile 'com.facebook.rebound:rebound:0.3.8'
     compile project(":android-pdf-viewer")
     compile project(":volley")
+    compile 'com.onesignal:OneSignal:3.+@aar'
+
+    // Required for OneSignal, even if you have added FCM.
+    compile 'com.google.android.gms:play-services-gcm:+'
+
+    // Required for geotagging
+    compile "com.google.android.gms:play-services-location:+"
+
+    // play-services-analytics is only needed when using 8.1.0 or older.
+    // compile 'com.google.android.gms:play-services-analytics:+'
 }
 
 
